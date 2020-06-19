@@ -6,6 +6,7 @@ title: Tools
 
 - [Squoosh](https://squoosh.app/): Image compression web app provided by Google.
 - [PDF2JPG](https://pdf2jpg.net/): Free PDF to JPG online converter
+- [EasyPDF](https://easypdf.com/): From PDF to easy, the online PDF converter made for everyone
 - [Smallpdf](https://smallpdf.com/): All-in-one easy-to-use online PDF tools
 - [Convertio](https://convertio.co/): Convert your files to any formats (300+ formats supported)
 - [ILovePDF](https://www.ilovepdf.com/): Every tool you need to work with PDFs in one place
